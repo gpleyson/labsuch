@@ -1,6 +1,6 @@
 # Python files
-# *.pyc
-# *.ropeproject
-# *.ipynb_checkpoints
-# Untitled.*
-# *.DS_Store
+*.pyc
+*.ropeproject
+*.ipynb_checkpoints
+Untitled.*
+*.DS_Store
